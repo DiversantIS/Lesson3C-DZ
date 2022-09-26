@@ -1,0 +1,15 @@
+H:\dev\Lesson3C#\bin\Debug\net6.0\Lesson3C#.exe
+H:\dev\Lesson3C#\bin\Debug\net6.0\Lesson3C#.deps.json
+H:\dev\Lesson3C#\bin\Debug\net6.0\Lesson3C#.runtimeconfig.json
+H:\dev\Lesson3C#\bin\Debug\net6.0\Lesson3C#.dll
+H:\dev\Lesson3C#\bin\Debug\net6.0\Lesson3C#.pdb
+H:\dev\Lesson3C#\obj\Debug\net6.0\Lesson3C#.csproj.AssemblyReference.cache
+H:\dev\Lesson3C#\obj\Debug\net6.0\Lesson3C#.GeneratedMSBuildEditorConfig.editorconfig
+H:\dev\Lesson3C#\obj\Debug\net6.0\Lesson3C#.AssemblyInfoInputs.cache
+H:\dev\Lesson3C#\obj\Debug\net6.0\Lesson3C#.AssemblyInfo.cs
+H:\dev\Lesson3C#\obj\Debug\net6.0\Lesson3C#.csproj.CoreCompileInputs.cache
+H:\dev\Lesson3C#\obj\Debug\net6.0\Lesson3C#.dll
+H:\dev\Lesson3C#\obj\Debug\net6.0\refint\Lesson3C#.dll
+H:\dev\Lesson3C#\obj\Debug\net6.0\Lesson3C#.pdb
+H:\dev\Lesson3C#\obj\Debug\net6.0\Lesson3C#.genruntimeconfig.cache
+H:\dev\Lesson3C#\obj\Debug\net6.0\ref\Lesson3C#.dll
